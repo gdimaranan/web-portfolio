@@ -1,0 +1,13 @@
+* { 
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body { 
+	font-family: "Open Sans", sans-serif;
+	background-image: url('img.jfif');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-size: cover;
+	 
+}
