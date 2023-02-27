@@ -179,3 +179,7 @@ ul li #social-media {
 #contact-social {
 	margin-top: 5%;
 }
+#project-hover:hover {
+	background-color: skyblue;
+	cursor: pointer;
+}
