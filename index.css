@@ -4,10 +4,178 @@
 	box-sizing: border-box;
 }
 body { 
-	font-family: "Open Sans", sans-serif;
-	background-image: url('img.jfif');
+	font-family: 'Open Sans',sans-serif ;
+	background-image: url('./img/img.jfif');
 	background-repeat: no-repeat;
-	background-size: auto;
 	background-size: cover;
-	 
+	background-attachment: fixed;
+ 
+}
+li #li_content {
+	width: 500px;
+	height: 300px;
+}
+#hello #logo {
+	width: 5em;
+	height: 5em;
+	border-radius: 150px;
+}
+nav #ako {
+	height: 3em;
+	width: 3em;
+}
+/*.nav-main {
+	position: sticky;
+	top: 0px;
+}*/
+#collapseWidthExample {
+	width: 300px;
+	height: 300px;
+	background-size: cover;
+	resize: none;
+  overflow: none;
+}
+#side-bar {
+	margin-top: 1px;
+
+}
+#side #hello-1 {
+	font-style: OpenSans;
+	margin-left: 50px;
+	margin-top: 10%;
+}
+nav #logo {
+	width: 80px;
+	height: 80px;
+	border-radius: 150px;
+	margin-left: 300px;
+	margin-bottom: 15%;	  
+}
+
+section #about-me-card {
+	height: 30em;
+	margin-right: 25%;
+}
+nav #top-logo {
+	font-weight: bolder;
+}
+section #side-bar {
+	margin-top: 100px;
+}
+#web-dev {
+	font-weight: bolder;
+}
+h1 {
+	font-weight: bolder;
+}
+nav #navbarNav {
+	margin-left: 20%;
+}
+.about {
+	margin-top: 10%;
+	margin-left: 8%;
+}
+#about-me-info {
+	font-family: 'Open Sans',sans-serif ;
+}
+.about #gtd-img {
+	width: 80%;
+	height: 90%;
+	margin-right: 5%;
+	margin-top: 20%;
+}
+.about-col-2 {
+	padding-left: 5%;
+	
+}
+#list-style-none {
+	list-style-type: none;
+	display: flex;
+}
+#list-style-none li {
+	padding-left: 10%;
+	font-weight: bolder;
+}
+.list-style {
+	list-style-type: none;
+	font-weight: bolder;
+}
+#about-main {
+	margin-bottom: 1%;
+	padding-left: 5%;
+}
+.project-col-1 {
+	margin-left: 10%;
+	font-style: italic;
+}
+#html {
+	height: 30%;
+	width: 25%;
+}
+#css {
+	height: 30%;
+	width: 25%;
+}
+#bootstrap {
+	height: 30%;
+	width: 25%;
+}
+#project-main {
+	margin-bottom: 10%;
+	margin-top: 10%;
+	padding-top: 7%;
+}
+#form-sign {
+	width: 40%;
+	
+}
+#form-sign label {
+	color: white;
+
+}
+#contact-form {
+	
+	width: 100%;
+	padding-left: 5%;
+	
+}
+#contact-form {
+	width: 90%;
+	margin-right: 10%;
+}
+
+ul li #social-media {
+	height: 2em;
+	width: 2em;
+	margin-left: 1em;
+}
+#contact-social li {
+    position: relative;
+    padding-left: 11px;
+}
+#button2 {
+	margin-bottom: 80%;
+}
+#pills-tab li {
+	padding-left: 3px;
+	font-family: 'OpenSans' sans-serif;
+}
+#pills-tab a:hover {
+  background-color: white;
+}
+#para-1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#about-me-info {
+	margin-top: 10%;
+}
+#my-name {
+	margin-top: 50%;
+}
+#contact-form {
+	margin-top: 10%;
+}
+#contact-social {
+	margin-top: 5%;
 }
